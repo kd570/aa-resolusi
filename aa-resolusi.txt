@@ -1,0 +1,3 @@
+AA Resolusi
+- Menguasai Framework CI4
+- Menguasai Framework Laravel
